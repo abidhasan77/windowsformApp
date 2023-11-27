@@ -1,0 +1,14 @@
+D:\C SHARP\HomePage\bin\Debug\HomePage.exe.config
+D:\C SHARP\HomePage\bin\Debug\HomePage.exe
+D:\C SHARP\HomePage\bin\Debug\HomePage.pdb
+D:\C SHARP\HomePage\obj\Debug\HomePage.csproj.AssemblyReference.cache
+D:\C SHARP\HomePage\obj\Debug\HomePage.Form1.resources
+D:\C SHARP\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+D:\C SHARP\HomePage\obj\Debug\HomePage.csproj.GenerateResource.cache
+D:\C SHARP\HomePage\obj\Debug\HomePage.csproj.CoreCompileInputs.cache
+D:\C SHARP\HomePage\obj\Debug\HomePage.exe
+D:\C SHARP\HomePage\obj\Debug\HomePage.pdb
+D:\C SHARP\HomePage\obj\Debug\HomePage.LogIn.resources
+D:\C SHARP\HomePage\obj\Debug\HomePage.Forgot_Passwoard.resources
+D:\C SHARP\HomePage\obj\Debug\HomePage.AboutOxygen.resources
+D:\C SHARP\HomePage\obj\Debug\HomePage.DashboardAdmin.resources
